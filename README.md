@@ -13,7 +13,9 @@ Write markdown text in this textarea.
 Vous avez appris ces derniers jours :
 
 > HTML
+
 > CSS
+
 > Outils Collaboratifs, Réseaux sociaux,...
 
     code HTML 
